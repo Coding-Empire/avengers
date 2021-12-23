@@ -8,7 +8,6 @@
 * Hawkeye
 * Hulk
 * Iron Man
-* QuickSilver
 * Scarlet Witch
 * Spider Woman
 * Thor
